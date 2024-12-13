@@ -1,6 +1,6 @@
 {
-  "name": "@rbxts/evently",
-  "version": "1.0.1",
+  "name": "@terradreamgames/evently",
+  "version": "1.0.3",
   "description": "**Type-safe event management for Roblox TypeScript projects.**",
   "main": "out/init.lua",
   "scripts": {
