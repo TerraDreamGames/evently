@@ -1,6 +1,9 @@
 ### **@rbxts/evently**  
 **Type-safe event management for Roblox TypeScript projects.**
 
+[Documentation](https://evently-ts.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;
+[Repository](https://github.com/TerraDreamGames/evently)
+
 Evently provides a robust and intuitive system for managing events in your Roblox projects, ensuring type safety and reducing runtime errors. Define events and their associated data types in one place, and enjoy seamless integration with strong TypeScript typing.
 
 #### Features:
