@@ -1,4 +1,4 @@
-### **@rbxts/evently**  
+### **@terradreamgames/evently**  
 **Type-safe event management for Roblox TypeScript projects.**
 
 [Documentation](https://evently-ts.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;
